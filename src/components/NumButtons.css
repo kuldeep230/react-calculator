@@ -1,0 +1,16 @@
+.numButtons-wrapper {
+  height: 4em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #efefef;
+  flex: 1;
+  outline: 1px solid #4a403a;
+  font-size: 1.4em;
+  cursor: pointer;
+}
+.operator {
+  background-color: #ffc069;
+  color: #4a403a;
+  font-weight: 600;
+}
